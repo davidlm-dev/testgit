@@ -1,0 +1,18 @@
+1- Hacer Fork
+2- Npm install en Front y Back
+3- ng serve y npm start
+4-Crear coleccion en MongoDB que se llame como el modelo
+5-Crear el modelo con un UserSchema Y exportar su correspondiente interfaz
+6-Hacer un CRUD en el archivo sevice correspondiente (Crear , Leer, Borrar y Actualizar9
+7-Ir al controller y gestionar las peticiones que se hacen hacia el CRUD 
+8-Añadir al swagger y a las rutas su correspondientes endpoints
+9-En server.ts añadir app.use('/api', xxxRoutes); y una tag
+10-Testear los endpoints con el swagger
+11-En angular ng generate component NOMBRECOMPONENTE
+12-Hacer un CSS basico
+13-Hacer un Html basico
+14-En el register component.ts teniendo en cuenta el html y sus botones utilizando routerLink
+15-Configurar el APP routes.ts
+16-Modelo si es necesario
+17-Hacer un servicio para hacer las peticiones 
+18-Beta testear y subir al repo donde hayas hecho el fork
