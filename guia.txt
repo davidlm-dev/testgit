@@ -3,7 +3,7 @@
 3- ng serve y npm start
 4-Crear coleccion en MongoDB que se llame como el modelo
 5-Crear el modelo con un UserSchema Y exportar su correspondiente interfaz
-6-Hacer un CRUD en el archivo sevice correspondiente (Crear , Leer, Borrar y Actualizar9
+6-Hacer un CRUD en el archivo sevice correspondiente (Crear , Leer, Borrar y Actualizar)
 7-Ir al controller y gestionar las peticiones que se hacen hacia el CRUD 
 8-Añadir al swagger y a las rutas su correspondientes endpoints
 9-En server.ts añadir app.use('/api', xxxRoutes); y una tag
